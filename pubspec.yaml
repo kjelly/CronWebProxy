@@ -1,0 +1,6 @@
+name: cronWebProxy
+dependencies:
+    http:
+    args:
+    cron:
+    hive: ^1.4.1+1
